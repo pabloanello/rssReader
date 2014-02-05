@@ -2,9 +2,9 @@
 
 //EDIT THESE LINES
 //Title of the blog
-var TITLE = "Raymond Camden's Blog";
+var TITLE = "La Voz del Interior";
 //RSS url
-var RSS = "http://www.raymondcamden.com/rss.cfm";
+var RSS = "http://www.lavoz.com.ar/rss.xml";
 //Stores entries
 var entries = [];
 var selectedEntry = "";
