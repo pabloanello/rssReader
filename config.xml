@@ -19,6 +19,6 @@
 
     <icon src="icons/Feed_128x128.png" />
 
-    <gap:plugin name="ChildBrowser" />
+    <gap:plugin name="com.phonegap.plugins.childbrowser" />
 
 </widget>
